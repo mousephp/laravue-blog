@@ -7,7 +7,7 @@ Trang blog sử dụng laravel và vuejs
 - Laravel Sanctum
 - VueJs 2 (vuex, axios, chartjs, vue-progressbar, vue-router, vue-sweetalert, ...)
 - Admin Lte + Bootstrap 4 + Font Awesome 5
-- Pusher
+<!-- - Pusher -->
 
 
 ## Features
@@ -24,6 +24,7 @@ Trang blog sử dụng laravel và vuejs
 - Middleware
 - Validate
 - ...
+<!--
 - Like, Dislike
 - Comment
 - Line Chart 
@@ -34,7 +35,7 @@ Trang blog sử dụng laravel và vuejs
 - Export dữ liệu theo định dạng pdf, excel
 - Pagination, middleware login-logout
 - ...
-
+-->
 
 ## Installation
 

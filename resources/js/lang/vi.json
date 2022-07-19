@@ -1,0 +1,12 @@
+{
+    "login": "Đăng Nhập",
+    "register": "Đăng Ký",
+    "logout": "Đăng xuất",
+    "email": "Email",
+    "remember_me": "Nhớ",
+    "password": "Mật khẩu",
+    "username_or_email": "Tên Hoặc Email",
+    "forgot_password": "Forgot Your Password?",
+    "confirm_password": "Confirm Password",
+    "not_account": "Do not have an account?"
+}
